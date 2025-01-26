@@ -269,7 +269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cbefa0ca08c63254bb090a0f6f288ebf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerName: Gyat Goblin
+  PlayerName: Sigma Sauce
   PBonus: 5
   Strn: 5
   Dex: 5
