@@ -36,7 +36,9 @@ public class DDSim : MonoBehaviour
         {
             Debug.Log(PlayerName + " rolled a " + DIE + ".\n" + PlayerName + "'s strength was " + Player);
             Debug.Log("The Computer had " + Comp + " armor.");
-            Debug.Log(PlayerName + " chopped off the Computer's hypothetical head.");
+            Debug.Log(PlayerName + " chopped off the Computer's head.");
+            Debug.Log("You smile as you victoriously bathe in your enemy's blood!");
+
 
         }
         else

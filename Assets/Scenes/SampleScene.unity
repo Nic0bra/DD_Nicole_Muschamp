@@ -132,6 +132,7 @@ GameObject:
   - component: {fileID: 330585544}
   - component: {fileID: 330585547}
   - component: {fileID: 330585548}
+  - component: {fileID: 330585549}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -273,6 +274,24 @@ MonoBehaviour:
   PBonus: 5
   Strn: 5
   Dex: 5
+  finWeapon: 1
+  Player: 0
+--- !u!114 &330585549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330585543}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9851a4ab8c2c0264290c5ea0db02771d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlayerName: Sigma Sauce
+  PBonus: 3
+  Strn: 2
+  Dex: 4
   finWeapon: 1
 --- !u!1 &410087039
 GameObject:
