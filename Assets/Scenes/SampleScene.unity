@@ -270,12 +270,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cbefa0ca08c63254bb090a0f6f288ebf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerName: Sigma Sauce
-  PBonus: 5
-  Strn: 5
-  Dex: 5
-  finWeapon: 1
-  Player: 0
 --- !u!114 &330585549
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -289,10 +283,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PlayerName: Sigma Sauce
-  PBonus: 3
-  Strn: 2
-  Dex: 4
+  PBonus: 5
+  Strn: 5
+  Dex: 5
   finWeapon: 1
+  thumbsdown: "\U0001F44E"
+  thumbsup: "\U0001F44D"
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
